@@ -1,0 +1,14 @@
+-- File: ui.lua
+-- Author: hobo
+-- License: MIT
+-- Description: UI for displaying stats
+-- Version: 0.0.0
+-- Created: 2025-17-03
+-- Repo: git@github.com:LetsRipp/copilot-tracker.nvim.git
+
+-- UI for displaying stats
+-- Options:
+-- 1. Simple buffer with text output
+-- 2. Integration with telescope for filtering
+-- 3. Basic charts using ASCII/Unicode
+-- 4. Export to external tools for visualization

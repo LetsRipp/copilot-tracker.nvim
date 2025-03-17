@@ -1,0 +1,14 @@
+-- File: completion_tracker.lua
+-- Author: hobo
+-- License: MIT
+-- Description: Tracks code completions from Copilot
+-- Version: 0.0.0
+-- Created: 2025-17-03
+-- Repo: git@github.com:LetsRipp/copilot-tracker.nvim.git
+
+-- Tracks code completions from Copilot
+-- Challenges:
+-- 1. Need to hook into zbirenbaum/copilot.lua events
+-- 2. Detect when suggestions are accepted vs. ignored
+-- 3. Track suggestion length, language context, etc.
+-- 4. May need to monkey-patch the copilot plugin or use its events if available

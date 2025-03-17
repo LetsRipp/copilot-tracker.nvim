@@ -1,0 +1,13 @@
+-- File: chat_tracker.lua
+-- Author: hobo
+-- License: MIT
+-- Description: Tracks CopilotChat usage
+-- Version: 0.0.0
+-- Created: 2025-17-03
+-- Repo: git@github.com:LetsRipp/copilot-tracker.nvim.git
+
+-- Tracks CopilotChat usage
+-- Easier than completion tracking because:
+-- 1. Can hook into CopilotChat.nvim events
+-- 2. Can track prompts used, response length, etc.
+-- 3. Need to capture which built-in prompts are used vs custom prompts

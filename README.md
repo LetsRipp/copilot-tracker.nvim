@@ -7,7 +7,7 @@
 [comment]: <> (Repo: git@github.com:LetsRipp/copilot-tracker.nvim.git)
 
 ## Copilot-tracker
-![nvim-header](https://img.shields.io/badge/nvim--header-v0.1.0-blue.svg)
+![copilot-tracker](https://img.shields.io/badge/copilot--tracker-v0.1.0-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Author: hobo](https://img.shields.io/badge/Author-hobo-green.svg)<BR>
 This plugin tracks Copilot completions through the nvim-cmp interface. <BR>
